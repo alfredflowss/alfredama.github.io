@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTF-8">
+  <title>Activity 1: Basic HTML Bio</title>
+</head>
+<h1>ALFRED AMACHREE</h1>
+
+<img src = "http://en.spongepedia.org/images/thumb/3/33/Spongebob!!!.jpg/180px-Spongebob!!!.jpg" alt="My image!"/>
+
+<p>I am a dynamic and enthusiastic graduate of Bachelor of Science with a major in Information and Communication engineering from Covenant University, Ota, Nigeria.  I Currently attend the University of Kansas where I am enrolled in a Data Analytics program. I am also a full time Interface Engineer at Cerner Corporation where I work on data migration efforts into the Cerner database and  work with 
+  real time data transfer/communication between the Cerner database and other healthcare vendors.</p>
+<p>I have very sound Information Technology and Engineering background with experience in the healthcare and Telecommunications Industries. I also just completed
+ 
+<ul>
+  <li><stong>Email:</stong><a href="#"></a>alfred@yahoo.com</li>
+</ul>
+<body>
+
+</body>
+
+</html>
